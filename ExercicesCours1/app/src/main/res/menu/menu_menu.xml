@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:title="gotoMain"
+        android:id="@+id/action_gotoMain"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        />
+
+    <item android:title="gotoA1"
+        android:id="@+id/action_gotoA1"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        />
+
+    <item android:title="gotoA2"
+        android:id="@+id/action_gotoA2"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        />
+</menu>
