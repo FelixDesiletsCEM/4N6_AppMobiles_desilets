@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ExercicesCours6</string>
+    <string translatable="true" name="String1">expensive</string>
+</resources>
